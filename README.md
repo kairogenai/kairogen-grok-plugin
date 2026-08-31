@@ -117,7 +117,6 @@ Declared for review and for anyone reading before installing:
 ## Resources
 
 - [Kairogen](https://kairogen.ai)
-- [MCP server source](https://github.com/kairogenai/kairogen-mcp)
 - [MCP docs](https://kairogen.ai/docs/mcp)
 - [Web app](https://app.kairogen.ai)
 
