@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kairogen": {
+      "type": "http",
+      "url": "https://mcp.kairogen.ai/mcp",
+      "note": "Kairogen hosted MCP server. OAuth 2.0 only — no API key to paste. On first connection, open /mcp, select kairogen, and press i to sign in with your Kairogen account in the browser. Generations debit credits from the signed-in account's wallet. Tools cover image, video, and audio generation plus the model catalog, cost estimates, and credit balance."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "kairogen",
+  "version": "1.0.0",
+  "description": "Generate images, videos, and audio in Grok Build using Kairogen's full model catalog (Seedream, Flux, Nano Banana, GPT Image, Sora, Veo, Kling, Seedance, KairoClone, Topaz). Connects to Kairogen's hosted MCP server over OAuth — one account, every model, one credit wallet. Skills cover model selection, cost control, and the reference/polling workflows that terminal hosts need.",
+  "author": {
+    "name": "Kairogen",
+    "url": "https://kairogen.ai"
+  },
+  "repository": "https://github.com/kairogenai/kairogen-grok-plugin",
+  "homepage": "https://kairogen.ai",
+  "license": "MIT",
+  "keywords": [
+    "kairogen",
+    "kairogen image",
+    "kairogen video",
+    "kairogen audio",
+    "kairogen mcp"
+  ],
+  "logo": "assets/logo.svg"
+}
